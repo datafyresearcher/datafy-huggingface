@@ -2,7 +2,9 @@
 Hugging Face Ecosystem
 </h1>
 
-![HF Ecosystem](https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/4.jpeg)
+<p align="center" width="100%">
+    <img width="100%" height="100%" src="https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/7.jpg">
+</p>
 
 The Hugging Face Ecosystem offers a comprehensive set of features:
 

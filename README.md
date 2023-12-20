@@ -4,10 +4,6 @@ Collaboration and Resources for AI Professionals: The Hugging Face Ecosystem
 
 Hugging Face is a powerful open-source platform that has gained widespread recognition in the AI and ML communities for its flexibility, robustness, and community-driven approach. Founded in 2017 as a chatbot application aimed at teenagers, Hugging Face has since transformed into a cutting-edge platform that provides a wide range of tools and services for AI development, training, and collaboration. With its user-friendly interface and extensive capabilities, Hugging Face is revolutionizing the way AI models are created and shared. Whether you're a seasoned expert or just starting out in the field, Hugging Face offers something for everyone. In this article, we'll take a closer look at the platform's offerings and explore how it's transforming the AI ecosystem.
 
-<p align="center" width="100%">
-    <img width="100%" height="100%" src="https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/7.jpg">
-</p>
-
 #### How to use Hugging Face
 
 <p align="center" width="100%">
@@ -40,8 +36,12 @@ By providing a comprehensive resource hub and fostering a collaborative communit
 
 #### Learn the Hugging Face Course
 
-[![HF Course](https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/2.png)](https://huggingface.co/learn)
+<p align="center" width="100%">
+    <a href="https://huggingface.co/learn"><img width="100%" height="100%" src="https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/2.png"></a>
+</p>
 
 #### Learn the Hugging Face Blog
 
-[![HF Blog](https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/3.png)](https://huggingface.co/blog?tag=nlp)
+<p align="center" width="100%">
+    <a href="https://huggingface.co/blog?tag=nlp"><img width="100%" height="100%" src="https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/3.png"></a>
+</p>
