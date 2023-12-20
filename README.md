@@ -4,11 +4,11 @@ Collaboration and Resources for AI Professionals: The Hugging Face Ecosystem
 
 Hugging Face is a powerful open-source platform that has gained widespread recognition in the AI and ML communities for its flexibility, robustness, and community-driven approach. Founded in 2017 as a chatbot application aimed at teenagers, Hugging Face has since transformed into a cutting-edge platform that provides a wide range of tools and services for AI development, training, and collaboration. With its user-friendly interface and extensive capabilities, Hugging Face is revolutionizing the way AI models are created and shared. Whether you're a seasoned expert or just starting out in the field, Hugging Face offers something for everyone. In this article, we'll take a closer look at the platform's offerings and explore how it's transforming the AI ecosystem.
 
-![HF](https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/1.webp){ width="100%" }
+![HF](https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/1.webp)
 
 #### How to use Hugging Face
 
-[![HF VIDEO](https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyte/lytesprite.png)](https://youtu.be/QEaBAZQCtwE)
+[![HF VIDEO](https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/5.jpeg)](https://www.youtube.com/watch?v=QEaBAZQCtwE)
 
 Are you curious about how this platform can benefit you? Look no further than its comprehensive infrastructure, which supports everything from coding to deploying AI in real-time applications and services. Some of its notable features include:
 
