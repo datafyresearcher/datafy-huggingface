@@ -39,6 +39,10 @@ By providing a comprehensive resource hub and fostering a collaborative communit
 Hugging Face Ecosystem
 </h1>
 
+<p align="center" width="100%">
+    <a href="https://huggingface.co/blog?tag=nlp"><img width="100%" height="100%" src="https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/3.png"></a>
+</p>
+
 The Hugging Face Ecosystem offers a comprehensive set of features:
 
 - **Account Profile Setup:** Quickly set up your account profile [Sign Up](https://huggingface.co/join).
@@ -49,16 +53,3 @@ The Hugging Face Ecosystem offers a comprehensive set of features:
 - **Hugging Face Tasks:** Get a brief overview of NLP tasks, especially [Text Generation](https://huggingface.co/tasks/text-generation).
 - **Hugging Face Chat:** Access top AI chat platforms, including [Llama-2-7b-chat-hf](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf), [falcon-180B-chat](https://huggingface.co/tiiuae/falcon-180B-chat), and [CodeLlama-34b-Instruct-hf](https://huggingface.co/codellama/CodeLlama-34b-Instruct-hf). See the [Hugging Chat](https://huggingface.co/chat/).
 - **Hugging Face Community Overview:** Explore educational resources like the [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1), stay updated through the [NLP blog](https://huggingface.co/blog?tag=nlp), and collaborate on GitHub through the [Hugging Face repository](https://github.com/huggingface).
-
-
-#### Learn the Hugging Face Course
-
-<p align="center" width="100%">
-    <a href="https://huggingface.co/learn"><img width="100%" height="100%" src="https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/2.png"></a>
-</p>
-
-#### Learn the Hugging Face Blog
-
-<p align="center" width="100%">
-    <a href="https://huggingface.co/blog?tag=nlp"><img width="100%" height="100%" src="https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/3.png"></a>
-</p>
