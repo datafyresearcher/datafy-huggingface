@@ -48,8 +48,6 @@ This notebook will give participants a hands-on overview of finetuning the GPT2 
 Once the model is finetuned, we create the Model Inference using Hugging Face Inference API.
 
 <a href="https://colab.research.google.com/github/datafyresearcher/datafy-huggingface/blob/main/notebooks/2_Deploy_GPT2_Inference_Endpoints.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-<p align="center" width="100%">
-    <a href="https://huggingface.co/blog?tag=nlp"><img width="100%" height="100%" src="https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/3.png"></a>
-</p>
+
 
 
