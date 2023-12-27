@@ -7,6 +7,7 @@ Hugging Face Ecosystem: NoteBooks Objectives
 </p>
 
 # **Objectives: GPT2 Small QLoRA Fine-Tuning**
+<a href="https://colab.research.google.com/github/datafyresearcher/datafy-huggingface/blob/main/notebooks/1_GPT2_Small_Qlora_FineTuning.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Here are some possible objectives that can be design for the *GPT2 Small QLoRA Fine-Tuning* description:
 
@@ -29,6 +30,9 @@ Here are some possible objectives that can be design for the *GPT2 Small QLoRA F
 17. Improve the customer service FAQ responses.
 
 # **Objectives: Deploy GPT2 Inference API and Endpoints**
+
+<a href="https://colab.research.google.com/github/datafyresearcher/datafy-huggingface/blob/main/notebooks/2_Deploy_GPT2_Inference_Endpoints.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 Here are some possible objectives that can be design for the *Deploy GPT2 Inference API and Endpoints* description:
 
 1. Install and set up the necessary packages and dependencies for the project, including but not limited to:
