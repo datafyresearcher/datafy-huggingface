@@ -4,9 +4,6 @@
     <a href="https://huggingface.co/blog?tag=nlp"><img width="100%" height="100%" src="https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/3.png"></a>
 </p>
 
-<p align="center" width="100%">
-    <a href="https://www.youtube.com/watch?v=QEaBAZQCtwE"><img width="100%" height="100%" src="https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/6.png"></a>
-</p>
 
 Are you curious about how this platform can benefit you? Look no further than its comprehensive infrastructure, which supports everything from coding to deploying AI in real-time applications and services. Some of its notable features include:
 
@@ -14,6 +11,10 @@ Are you curious about how this platform can benefit you? Look no further than it
 * An expansive collection of more than 30,000 datasets for AI model training, plus the option to share your own custom datasets.
 * Spaces, a groundbreaking feature that serves as both a showcase and a self-contained demonstration, allowing visitors to experience model performance firsthand.
 * The ability to customize and fine-tune the underlying computing resources when running demos, giving users greater control over their AI experiments.
+
+<p align="center" width="100%">
+    <a href="https://www.youtube.com/watch?v=QEaBAZQCtwE"><img width="100%" height="100%" src="https://github.com/datafyresearcher/datafy-huggingface/blob/main/data/6.png"></a>
+</p>
 
 Hugging Face: A Thriving Community and Comprehensive Resource Hub for AI Development
 -------------------------------------------------------------------------------------
@@ -32,7 +33,3 @@ In addition to the renowned Transformers and Hugging Face Hub, the ecosystem boa
 
 By providing a comprehensive resource hub and fostering a collaborative community, Hugging Face empowers AI professionals to push the boundaries of what's possible in the field. Join the Hugging Face community today and start building the future of AI!
 
-
-<h1 align="center">
-Hugging Face Ecosystem
-</h1>
